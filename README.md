@@ -10,7 +10,7 @@ Here are some of the projects I've developed:
 
 - **[R Libraries Parser](https://github.com/harshanal/r-libraries-parser)**: A simple JavaScript front-end application that parses R scripts to identify required packages and generates a comprehensive `install.packages` command. This tool simplifies the package installation process for R users.
 
-- **[Epiviz](https://github.com/harshanal/epiviz)**: An epidemiological data visualization tool that provides easy-to-use functions for creating both static and interactive visualizations. It aids in the exploration and understanding of correlations between various genome features.
+- **[Epiviz](https://github.com/harshanal/epiviz)**: An epidemiological data visualization package that provides easy-to-use functions for creating both static and interactive visualizations. It also includes Generative AI features to automatically generate narratives for visualisations using LLM APIs
 
 ## 🤝 Contributions
 
