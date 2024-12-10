@@ -1,6 +1,6 @@
-# Hi there, I'm Harshana Liyanage 👋
+# Hi,  I'm Harshana Liyanage 👋
 
-Welcome to my GitHub profile! I'm a dedicated software developer with a passion for creating tools that enhance data analysis and visualization. My work primarily focuses on developing applications that streamline workflows for data scientists and researchers.
+I'm a data scientist with a passion for creating tools that enhance data analysis and visualization. My work primarily focuses on developing applications that streamline workflows for data scientists and researchers.
 
 ## 🛠️ My Projects
 
