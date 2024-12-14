@@ -6,9 +6,7 @@ I'm a data scientist with a passion for creating tools that enhance data analysi
 
 Here are some of the projects I've developed:
 
-- **[renv2pak](https://github.com/harshanal/renv2pak)**: A web-based utility that assists R developers in installing packages defined in an `renv.lock` file using the `pak` package. This tool serves as a workaround for issues encountered with `renv::restore()`, especially during environment migrations or complex dependency resolutions.
-
-- **[R Libraries Parser](https://github.com/harshanal/r-libraries-parser)**: A simple JavaScript front-end application that parses R scripts to identify required packages and generates a comprehensive `install.packages` command. This tool simplifies the package installation process for R users.
+- **[R Libraries Parser](https://github.com/harshanal/r-libraries-parser)**:Parse R scripts to identify required packages and generates a comprehensive `install.packages` command. This tool simplifies the package installation process for R users.
 
 - **[Epiviz](https://github.com/harshanal/epiviz)**: An epidemiological data visualization package that provides easy-to-use functions for creating both static and interactive visualizations. It also includes Generative AI features to automatically generate narratives for visualisations using LLM APIs
 
